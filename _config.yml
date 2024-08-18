@@ -1,6 +1,6 @@
 # Jekyll configuration
-title: VIS4DH 2025 Homepage
-description: |
+title:
+description:
 url: "https://soumyadutta-cse.github.io/vis4dh/"
 #markdown: kramdown or GFM (default)
 #highlightr: rouge
