@@ -1,9 +1,2 @@
-<!-- ---
-title: "VIS4DH 2025"
-description: 
-year: 2025
-current: true
-permalink: .
----
+# Workshop on Visualization for Digital Humanities in conjunction with: IEEE Pacific Visualization Conference 2025
 
-<style type="text/css"> -->
