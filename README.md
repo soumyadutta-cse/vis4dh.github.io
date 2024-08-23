@@ -4,9 +4,13 @@
 <br>
 In conjunction with:  
 [IEEE Pacific Visualization Conference 2025](https://pacificvis2025.github.io/pages/index.html) <br>
-<br>
-Tuesday, 22 April 2025 <br>
+<!-- <br>
+Tuesday, 22 April 2025 <br> -->
 </p>
+
+### Workshop Date
+
+Tuesday, April 22, 2025
 
 ## Workshop Theme
 
@@ -17,7 +21,7 @@ Based on the above, this workshop aims to provide an opportunity for researchers
 
 ## Participation/Call for Papers
 
-We invite original, unpublished short papers of up to 6 pages including references. Please note that 6 pages is the length limit, not the expected length. Manuscripts should be prepared according to the guide for authors given at https://tc.computer.org/vgtc/publications/conference/. We are in touch with IEEE to get approval for the accepted papers to be published in the IEEE Xplore Digital Library.
+We invite original, unpublished short papers of up to 6 pages including references. Please note that 6 pages is the length limit, not the expected length. Manuscripts should be prepared according to the guide for authors given at [https://tc.computer.org/vgtc/publications/conference/](https://tc.computer.org/vgtc/publications/conference/). We are in touch with IEEE to get approval for the accepted papers to be published in the IEEE Xplore Digital Library.
 
 <!-- ## Review Process
 
@@ -33,7 +37,7 @@ To be announced soon -->
 
 ## Timeline/Important Dates
 
-Submission deadline: January 6, 2025
+To be announced soon
 
 ## Committees and Chairs
 
