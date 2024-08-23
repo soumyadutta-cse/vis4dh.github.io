@@ -15,41 +15,40 @@ To extract and utilize information from such complex and diverse big data, it is
 
 Based on the above, this workshop aims to provide an opportunity for researchers from various fields, regardless of their background in the humanities or sciences, to gather and exchange ideas. The focus will be on discussing the latest developments in visualization and visual analysis within the context of digital humanities.
 
+## Participation/Call for Papers
 
-<!-- ## Participation/Call for Papers
-
-To be announced soon -->
+We invite original, unpublished short papers of up to 6 pages including references. Please note that 6 pages is the length limit, not the expected length. Manuscripts should be prepared according to the guide for authors given at https://tc.computer.org/vgtc/publications/conference/. We are in touch with IEEE to get approval for the accepted papers to be published in the IEEE Xplore Digital Library.
 
 <!-- ## Review Process
 
-To be announced soon
+To be announced soon -->
 
 ## Submission Process
 
 To be announced soon
 
-## Publication
+<!-- ## Publication
 
 To be announced soon -->
 
 ## Timeline/Important Dates
 
-To be announced soon
+Submission deadline: January 6, 2025
 
 ## Committees and Chairs
 
-#### Chairs
+#### Workshop Chairs
 
 - Soumya Dutta, _Indian Institute of Technology Kanpur (IIT Kanpur), India_
 - Satoshi Tanaka, _Ritsumeikan University, Japan_
 
-<!-- #### Organizing Committee
-
-To be announced soon -->
-
 #### Program Committee
 
-To be announced soon
+1. Hiroaki Natsukawa, Osaka Seikei University, Japan
+2. Satoshi Takatori, Ritsumeikan University, Japan
+3. Liang Li, Ritsumeikan University, Japan
+4. Jiao Pan, University of Science and Technology Beijing, China
+5. Weite Li, Chongqing Technology and Business University, China
 
 ### Contact Us
 
