@@ -23,9 +23,9 @@ Based on the above, this workshop aims to provide an opportunity for researchers
 
 We invite original, unpublished short papers of up to 6 pages including references. Please note that 6 pages is the length limit, not the expected length. Manuscripts should be prepared according to the guide for authors given at [https://tc.computer.org/vgtc/publications/conference/](https://tc.computer.org/vgtc/publications/conference/). We are in touch with IEEE to get approval for the accepted papers to be published in the IEEE Xplore Digital Library.
 
-<!-- ## Review Process
+## Review Process
 
-To be announced soon -->
+All submissions will be peer-reviewed by field experts and evaluated based on their relevance to the workshop theme, technical rigor, creativity, originality, and the impact of the methods or results. The workshop will follow a double blind review system.
 
 ## Submission Process
 
@@ -37,28 +37,33 @@ To be announced soon -->
 
 ## Timeline/Important Dates
 
-To be announced soon
+Submission deadline: January 6, 2025<br>
+Notification: Feb 12, 2025<br>
+Camera ready deadline: Feb 22, 2028<br>
 
 ## Committees and Chairs
 
 #### Workshop Chairs
 
-<!-- <center><img src="/images/sdutta.png" alt="sdutta" style="width:70%"></center>
-<center><img src="/images/tanaka.png" alt="tanaka" style="width:70%"></center> -->
-
-<div class="column">
+<!--<div class="column">
     <div class="card">
-      <center><img src="/images/sdutta.png" alt="sdutta" style="width:70%"></center>
+      <center><img src="/images/sdutta.png" alt="sdutta" style="width:10%"></center>
     </div>
     <div class="card">
-      <center><img src="/images/tanaka.png" alt="tanaka" style="width:70%"></center>
+      <center><img src="/images/tanaka.png" alt="tanaka" style="width:10%"></center>
     </div>
-</div>
+</div>-->
 
-<!-- ![](images/sdutta.png) ![](images/tanaka.png) -->
+<!-- <p align="center">
+  <img src="/images/sdutta.png" alt="sdutta" width="20%" style="display: inline-block;">
+  <img src="/images/tanaka.png" alt="tanaka" width="20%" style="display: inline-block;">
+</p> -->
 
-- Soumya Dutta, _Indian Institute of Technology Kanpur (IIT Kanpur), India_
-- Satoshi Tanaka, _Ritsumeikan University, Japan_
+<!--
+![](images/sdutta.png) ![](images/tanaka.png)-->
+
+- Soumya Dutta, Indian Institute of Technology Kanpur (IIT Kanpur), India
+- Satoshi Tanaka, Ritsumeikan University, Japan
 
 #### Program Committee
 
