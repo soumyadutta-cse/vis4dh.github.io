@@ -43,6 +43,20 @@ To be announced soon
 
 #### Workshop Chairs
 
+<!-- <center><img src="/images/sdutta.png" alt="sdutta" style="width:70%"></center>
+<center><img src="/images/tanaka.png" alt="tanaka" style="width:70%"></center> -->
+
+<div class="column">
+    <div class="card">
+      <center><img src="/images/sdutta.png" alt="sdutta" style="width:70%"></center>
+    </div>
+    <div class="card">
+      <center><img src="/images/tanaka.png" alt="tanaka" style="width:70%"></center>
+    </div>
+</div>
+
+<!-- ![](images/sdutta.png) ![](images/tanaka.png) -->
+
 - Soumya Dutta, _Indian Institute of Technology Kanpur (IIT Kanpur), India_
 - Satoshi Tanaka, _Ritsumeikan University, Japan_
 

@@ -4,9 +4,13 @@
 <br>
 In conjunction with:  
 [IEEE Pacific Visualization Conference 2025](https://pacificvis2025.github.io/pages/index.html) <br>
-<br>
-Tuesday, 22 April 2025 <br>
+<!-- <br>
+Tuesday, 22 April 2025 <br> -->
 </p>
+
+### Workshop Date
+
+Tuesday, April 22, 2025
 
 ## Workshop Theme
 
@@ -15,20 +19,19 @@ To extract and utilize information from such complex and diverse big data, it is
 
 Based on the above, this workshop aims to provide an opportunity for researchers from various fields, regardless of their background in the humanities or sciences, to gather and exchange ideas. The focus will be on discussing the latest developments in visualization and visual analysis within the context of digital humanities.
 
+## Participation/Call for Papers
 
-<!-- ## Participation/Call for Papers
-
-To be announced soon -->
+We invite original, unpublished short papers of up to 6 pages including references. Please note that 6 pages is the length limit, not the expected length. Manuscripts should be prepared according to the guide for authors given at [https://tc.computer.org/vgtc/publications/conference/](https://tc.computer.org/vgtc/publications/conference/). We are in touch with IEEE to get approval for the accepted papers to be published in the IEEE Xplore Digital Library.
 
 <!-- ## Review Process
 
-To be announced soon
+To be announced soon -->
 
 ## Submission Process
 
 To be announced soon
 
-## Publication
+<!-- ## Publication
 
 To be announced soon -->
 
@@ -38,18 +41,32 @@ To be announced soon
 
 ## Committees and Chairs
 
-#### Chairs
+#### Workshop Chairs
+
+<!--
+<center><img src="/images/sdutta.png" alt="sdutta" style="width:70%"></center>
+
+<center><img src="/images/tanaka.png" alt="tanaka" style="width:70%"></center> -->
+
+<div class="column">
+    <div class="card">
+      <center><img src="/images/sdutta.png" alt="shanu" style="width:70%"></center>
+    </div>
+    <div class="card">
+      <center><img src="/images/sdutta.png" alt="shanu" style="width:70%"></center>
+    </div>
+</div>
 
 - Soumya Dutta, _Indian Institute of Technology Kanpur (IIT Kanpur), India_
 - Satoshi Tanaka, _Ritsumeikan University, Japan_
 
-<!-- #### Organizing Committee
-
-To be announced soon -->
-
 #### Program Committee
 
-To be announced soon
+1. Hiroaki Natsukawa, Osaka Seikei University, Japan
+2. Satoshi Takatori, Ritsumeikan University, Japan
+3. Liang Li, Ritsumeikan University, Japan
+4. Jiao Pan, University of Science and Technology Beijing, China
+5. Weite Li, Chongqing Technology and Business University, China
 
 ### Contact Us
 
