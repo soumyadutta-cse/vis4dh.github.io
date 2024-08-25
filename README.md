@@ -1,4 +1,4 @@
-# Workshop on Visualization for Digital Humanities
+# Workshop on Visualization for the Digital and Public Humanities (DPH-Vis)
 
 <p style="text-align: left;" markdown="1">
 <br>
@@ -14,14 +14,16 @@ Tuesday, April 22, 2025
 
 ## Workshop Theme
 
-Digital Humanities is a research field that aims to bring new insights to the humanities through scientific techniques centered on computer science and technology. Recently, the digital data handled by Digital Humanities has become more complex and massive, now referred to as cultural big data, which is not only vast but also multimodal, combining image, audio, text, and other types of data.
-To extract and utilize information from such complex and diverse big data, it is essential to integrate and further develop various visualization technologies, such as multimodal visualization, massive information visualization, time-series visualization, AI-assisted visualization, noise processing, feature extraction, see-through visualization, immersive visualization, and many others. Additionally, Digital Humanities is, by its nature, an interdisciplinary academic field that integrates the humanities and sciences, with a focus on the convergence of different disciplines.
+Digital Humanities is a research field that aims to bring new insights to the humanities through scientific methodologies centered on computer science and technology. In the current era of big data, the digital data handled by Digital Humanities has become more complex, massive, and multi-source.
 
-Based on the above, this workshop aims to provide an opportunity for researchers from various fields, regardless of their background in the humanities or sciences, to gather and exchange ideas. The focus will be on discussing the latest developments in visualization and visual analysis within the context of digital humanities.
+In this context, a new trend in Digital Humanities has emerged, aiming to involve a broader range of people from various fields in discussions within the humanities through interdisciplinary research utilizing digital technologies. This trend is known as "Digital and Public Humanities (DPH)." In this interdisciplinary fusion, visualization should play an essential role. Therefore, we are launching a new workshop titled "Workshop on Visualization for the Digital and Public Humanities (DPH-Vis)" as part of PacificVis 2025. This workshop is not just a gathering but a platform that fosters new interdisciplinary collaboration. We welcome researchers from various fields, both in scientific and humanities areas.
+
+Visualization for DPH involves a variety of visualizations: high-quality visualization,
+feature-highlighting visualization, AI-assisted visualization, immersive visualization, visualization of digital twins, multi-source/multi-dimensional visualization, time-series visualization, story-telling visualization, and many others. We welcome research contributions to any visualization and visual analytics targeting humanities data.
 
 ## Participation/Call for Papers
 
-We invite original, unpublished short papers of up to 6 pages including references. Please note that 6 pages is the length limit, not the expected length. Manuscripts should be prepared according to the guide for authors given at [https://tc.computer.org/vgtc/publications/conference/](https://tc.computer.org/vgtc/publications/conference/). We are in touch with IEEE to get approval for the accepted papers to be published in the IEEE Xplore Digital Library.
+We invite original, unpublished short papers of up to 6 pages including references. Please note that 6 pages is the length limit, not the expected length. Manuscripts should be prepared according to the guide for authors given at [https://tc.computer.org/vgtc/publications/conference/](https://tc.computer.org/vgtc/publications/conference/).
 
 ## Review Process
 
@@ -31,9 +33,9 @@ All submissions will be peer-reviewed by field experts and evaluated based on th
 
 To be announced soon
 
-<!-- ## Publication
+## Publication
 
-To be announced soon -->
+We are in touch with IEEE to get approval for the accepted papers to be published in the IEEE Xplore Digital Library.
 
 ## Timeline/Important Dates
 
