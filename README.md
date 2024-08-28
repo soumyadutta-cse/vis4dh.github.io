@@ -47,35 +47,25 @@ Camera ready deadline: Feb 22, 2028<br>
 
 #### Workshop Chairs
 
-<div>
-  <div class="row mb-3">
-    <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-      <div class="card card-lg card-body align-items-center">
-        <img src="images/sdutta.png" alt="Soumya Dutta" class="avatar avatar-xlg mb-3">
-        <center><h5 class="mb-0">Soumya Dutta</h5></center>
-        <center><span>IIT Kanpur</span></center>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div>
-  <div class="row mb-3">
-    <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-      <div class="card card-lg card-body align-items-center">
-        <img src="images/sdutta.png" alt="Soumya Dutta" class="avatar avatar-xlg mb-3">
-        <center><h5 class="mb-0">Soumya Dutta</h5></center>
-        <center><span>IIT Kanpur</span></center>
-      </div>
-    </div>
-  </div>
-</div>
-
-
 <p align="center">
   <img src="images/sdutta.png" alt="Image 1" width="150" height="150" style="border-radius: 50%; margin-right: 20px;">
   <img src="images/sdutta.png" alt="Image 2" width="150" height="150" style="border-radius: 50%;">
 </p>
+
+
+
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <div style="margin-right: 20px; text-align: center;">
+    <img src="images/sdutta.png" alt="Soumya Dutta" style="border-radius: 50%; width: 150px; height: 150px;">
+    <p style="margin: 10px 0 0;">Soumya Dutta</p>
+    <p style="margin: 0;">IIT Kanpur, India</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="images/tanaka.png" alt="Satoshi Tanaka" style="border-radius: 50%; width: 150px; height: 150px;">
+    <p style="margin: 10px 0 0;">Satoshi Tanaka</p>
+    <p style="margin: 0;">Ritsumeikan University, Japan</p>
+  </div>
+</div>
 
 - Soumya Dutta, Indian Institute of Technology Kanpur (IIT Kanpur), India
 - Satoshi Tanaka, Ritsumeikan University, Japan
