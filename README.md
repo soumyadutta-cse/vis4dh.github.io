@@ -40,8 +40,8 @@ We are in touch with IEEE to get approval for the accepted papers to be publishe
 ## Timeline/Important Dates
 
 Submission deadline: January 6, 2025<br>
-Notification: Feb 12, 2025<br>
-Camera ready deadline: Feb 22, 2028<br>
+Notification: February 12, 2025<br>
+Camera ready deadline: February 22, 2025<br>
 
 ## Committees and Chairs
 
