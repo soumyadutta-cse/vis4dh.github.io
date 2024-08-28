@@ -47,13 +47,6 @@ Camera ready deadline: Feb 22, 2028<br>
 
 #### Workshop Chairs
 
-<p align="center">
-  <img src="images/sdutta.png" alt="Image 1" width="150" height="150" style="border-radius: 50%; margin-right: 20px;">
-  <img src="images/sdutta.png" alt="Image 2" width="150" height="150" style="border-radius: 50%;">
-</p>
-
-
-
 <div style="display: flex; align-items: center; justify-content: flex-start;">
   <div style="margin-right: 20px; text-align: center;">
     <img src="images/sdutta.png" alt="Soumya Dutta" style="border-radius: 50%; width: 150px; height: 150px;">
@@ -67,8 +60,8 @@ Camera ready deadline: Feb 22, 2028<br>
   </div>
 </div>
 
-- Soumya Dutta, Indian Institute of Technology Kanpur (IIT Kanpur), India
-- Satoshi Tanaka, Ritsumeikan University, Japan
+<!-- - Soumya Dutta, Indian Institute of Technology Kanpur (IIT Kanpur), India
+- Satoshi Tanaka, Ritsumeikan University, Japan -->
 
 #### Program Committee
 
