@@ -1,14 +1,17 @@
 # Workshop on Visualization for the Digital and Public Humanities (DPH-Vis)
 
-<p style="text-align: left;" markdown="1">
+<!-- <p style="text-align: left;" markdown="1">
 <br>
-In conjunction with:  
+In conjunction with:  <br>
 [IEEE Pacific Visualization Conference 2025](https://pacificvis2025.github.io/pages/index.html) <br>
-<!-- <br>
-Tuesday, 22 April 2025 <br> -->
-</p>
+</p> -->
 
-### Workshop Date
+### In conjunction with [IEEE Pacific Visualization Conference 2025](https://pacificvis2025.github.io/pages/index.html)
+
+<br>
+<br>
+
+## Workshop Date
 
 Tuesday, April 22, 2025
 
@@ -25,13 +28,9 @@ feature-highlighting visualization, AI-assisted visualization, immersive visuali
 
 We invite original, unpublished short papers of up to 6 pages including references. Please note that 6 pages is the length limit, not the expected length. Manuscripts should be prepared according to the guide for authors given at [https://tc.computer.org/vgtc/publications/conference/](https://tc.computer.org/vgtc/publications/conference/).
 
-## Review Process
+## Submission and Review Process
 
-All submissions will be peer-reviewed by field experts and evaluated based on their relevance to the workshop theme, technical rigor, creativity, originality, and the impact of the methods or results. The workshop will follow a double blind review system.
-
-## Submission Process
-
-To be announced soon
+The worksho will use the [Precision Conference System (PCS)](https://new.precisionconference.com/user/login) to handle the submission and reviewing process. When submitting, at the top of the PCS Submissions tab, please select 'VGTC' for the society, 'PacificVis 2025' for the conference/journal, and 'PacificVis 2025 Workshop on Visualization for Digial and Public Humanities' for the track. All submissions will be peer-reviewed by field experts and evaluated based on their relevance to the workshop theme, technical rigor, creativity, originality, and the impact of the methods or results. The workshop will follow a double blind review system.
 
 ## Publication
 
@@ -43,10 +42,35 @@ Submission deadline: January 6, 2025<br>
 Notification: February 12, 2025<br>
 Camera ready deadline: February 22, 2025<br>
 
-## Committees and Chairs
+<br>
+
+## Keynote Speaker
+
+### Prof. Chongke Bi, College of Intelligence and Computing, Tianjin University, China
+
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <div style="margin-right: 20px; text-align: center;">
+    <img src="images/keynote_speaker.jpg" alt="Chongke Bi" style="border-radius: 50%; width: 150px; height: 170px;">
+  </div>
+</div>
+
+### Title: Emotion-Driven Talking Face Generation for Digital Humanities
+
+### Abstract:
+
+Emotion-driven talking face generation is a crucial and rapidly developing technology in the field of digital humanities. For example, it can be used to reconstruct the likeness of historical figures, bringing them “to life” to help people better understand history and culture. It can even enable historical figures to engage in multilingual communication, promoting cultural exchange on an international level. Additionally, it can be applied in virtual tour guides, allowing users to customize the likeness of their favorite celebrities as guides. Emotion-driven talking face generation involves transferring facial motion attributes from audio or video onto any portrait image to generate realistic talking face videos. In the domain of representation learning, one of the key challenges for this technology is effectively disentanglement facial expressions and head poses to achieve more natural and precise control in video editing and human-computer interaction. This talk will introduce our recent work for disentanglement speaking motion representations based on prior knowledge, such as the attention disentanglement model, 3DMM model, and Facial Action Coding System (FACS). Additionally, the application of generative models like GAN and NeRF in the task of talking face synthesis will also be discussed. Finally, several digital humanities applications will also be shown.
+
+### Speaker Bio:
+
+Chongke Bi received his BSc (Eng.) and MSc (Eng.) degrees from Shandong University in 2004 and 2007, respectively, and his PhD (Sci.) degree from The University of Tokyo, Japan, in 2012. From 2012 to 2016, he was a Researcher at RIKEN, Japan, where he focused on the research in the field of visual analysis of large-scale simulation on supercomputer. He is currently a professor at the college of intelligence and computing, Tianjin University. His research interests include visualization, machine learning, and high performance computing. He was the Organizing Chair of the 13th and 14th IEEE Pacific Visualization Symposium (IEEE PacificVis 2020 and 2021); the Poster Chair of IEEE PacificVis 2018. He was also served as the Program Co-chair of the 17th International Symposium on Visual Information Communication and Interaction (VINCI 2024). He has been the Chair of the International Forum in ChinaVis since 2018; the Chair of CSIG-VIS International Lecture Series since 2021 (https://chinavis.org/lectures/english/index_en.html).
+
+<br>
+
+## Committee and Chairs
 
 #### Workshop Chairs
 
+<br>
 <div style="display: flex; align-items: center; justify-content: flex-start;">
   <div style="margin-right: 20px; text-align: center;">
     <img src="images/sdutta.png" alt="Soumya Dutta" style="border-radius: 50%; width: 150px; height: 150px;">
@@ -60,8 +84,7 @@ Camera ready deadline: February 22, 2025<br>
   </div>
 </div>
 
-<!-- - Soumya Dutta, Indian Institute of Technology Kanpur (IIT Kanpur), India
-- Satoshi Tanaka, Ritsumeikan University, Japan -->
+<br>
 
 #### Program Committee
 
