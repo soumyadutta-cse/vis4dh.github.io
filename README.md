@@ -1,13 +1,9 @@
 # Workshop on Visualization for the Digital and Public Humanities (DPH-Vis)
 
-<!-- <p style="text-align: left;" markdown="1">
-<br>
-In conjunction with:  <br>
-[IEEE Pacific Visualization Conference 2025](https://pacificvis2025.github.io/pages/index.html) <br>
-</p> -->
-
 ### In conjunction with [IEEE Pacific Visualization Conference 2025](https://pacificvis2025.github.io/pages/index.html)
 
+<br>
+<img src="images/photo-collage.png" alt="collage" style="width: 2000px; height: 250px;">
 <br>
 <br>
 
