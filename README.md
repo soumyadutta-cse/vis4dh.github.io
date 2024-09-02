@@ -3,7 +3,7 @@
 ### In conjunction with [IEEE Pacific Visualization Conference 2025](https://pacificvis2025.github.io/pages/index.html)
 
 <br>
-<img src="images/photo-collage.png" alt="collage" style="width: 2000px; height: 300px;">
+<img src="images/photo-collage.png" alt="collage" style="width: 2000px; height: 400px;">
 <br>
 <br>
 
