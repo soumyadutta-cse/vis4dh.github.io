@@ -119,6 +119,13 @@ Prof. Satoshi Tanaka received his Ph.D. in theoretical physics from Waseda Unive
 3. Liang Li, Ritsumeikan University, Japan
 4. Jiao Pan, University of Science and Technology Beijing, China
 5. Weite Li, Chongqing Technology and Business University, China
+6. Takayuki Itoh, Ochanomizu University, Tokyo, Japan
+7. Naohisa Sakamoto, Kobe University, Kobe, Japan
+8. Chongke Bi, College of Intelligence and Computing, Tianjin University, Tianjin, China
+9. Kyoko Hasegawa, Tokai University, Tokyo, Japan
+10. Susumu Nakata, Ritsumeikan University, Osaka, Japan
+11. Koji Koyamada, Data science Dept., Osaka-seikei　University, Osaka, Japan
+12. Woong Choi, College of ICT Construction & Welfare Convergence,  Kangnam
 
 ### Contact Us
 
